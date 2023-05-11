@@ -1,3 +1,3 @@
 # Week10-BT
 
-This is a dummy update! number 2
+This is a dummy update!
